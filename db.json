@@ -18,12 +18,12 @@
       "id": 2,
       "address": {
         "line1": "45 Elm St",
-        "line2": "400000",
+        "line2": "",
         "city": "Somerville",
         "state": "MA",
         "zip": "02145"
       },
-      "value": "",
+      "value": "400000",
       "for_sale": "true",
       "img": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=100",
       "tags": ["two-bedroom", "foreclosure", "top-school-district"]
@@ -32,12 +32,12 @@
       "id": 3,
       "address": {
         "line1": "6 Park St",
-        "line2": "450000",
+        "line2": "",
         "city": "Cambridge",
         "state": "MA",
         "zip": "02138"
       },
-      "value": "",
+      "value": "450000",
       "for_sale": "true",
       "img": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=100",
       "tags": ["one-bedroom"]
@@ -93,7 +93,7 @@
         "state": "MA",
         "zip": "02144"
       },
-      "value": "",
+      "value": "600000",
       "for_sale": "true",
       "img": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=100",
       "tags": ["three-bedroom", "waterfront", "top-school-district"]
@@ -127,7 +127,7 @@
         "state": "MA",
         "zip": "01605"
       },
-      "value": "350000",
+      "value": "",
       "for_sale": "true",
       "img": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=100",
       "tags": ["one-bedroom"]
