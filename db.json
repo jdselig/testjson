@@ -1,0 +1,164 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "address": {
+        "line1": "123 Main Street",
+        "line2": "",
+        "city": "Salem",
+        "state": "MA",
+        "zip": "01944"
+      },
+      "value": "300000",
+      "for_sale": "true",
+      "img": "one.jpg",
+      "tags": ["one-bedroom", "waterfront", "septic"]
+    },
+    {
+      "id": 2,
+      "address": {
+        "line1": "45 Elm St",
+        "line2": "400000",
+        "city": "Somerville",
+        "state": "MA",
+        "zip": "02145"
+      },
+      "value": "",
+      "for_sale": "true",
+      "img": "two.jpg",
+      "tags": ["two-bedroom", "foreclosure", "top-school-district"]
+    },
+    {
+      "id": 3,
+      "address": {
+        "line1": "6 Park St",
+        "line2": "450000",
+        "city": "Cambridge",
+        "state": "MA",
+        "zip": "02138"
+      },
+      "value": "",
+      "for_sale": "true",
+      "img": "three.jpg",
+      "tags": ["one-bedroom"]
+    },
+    {
+      "id": 4,
+      "address": {
+        "line1": "90 Grove St",
+        "line2": "",
+        "city": "Webster",
+        "state": "MA",
+        "zip": "01570"
+      },
+      "value": "400000",
+      "for_sale": "true",
+      "img": "four.jpg",
+      "tags": ["three-bedroom", "waterfront"]
+    },
+    {
+      "id": 5,
+      "address": {
+        "line1": "85 Oak St",
+        "line2": "",
+        "city": "Dudley",
+        "state": "MA",
+        "zip": "01571"
+      },
+      "value": "350000",
+      "for_sale": "true",
+      "img": "five.jpg",
+      "tags": ["one-bedroom", "top-school-district"]
+    },
+    {
+      "id": 6,
+      "address": {
+        "line1": "43 Windsor St",
+        "line2": "",
+        "city": "Medford",
+        "state": "MA",
+        "zip": "02155"
+      },
+      "value": "390000",
+      "for_sale": "true",
+      "img": "six.jpg",
+      "tags": ["one-bedroom", "septic"]
+    },
+    {
+      "id": 7,
+      "address": {
+        "line1": "26 Meadow Ave",
+        "line2": "",
+        "city": "Somerville",
+        "state": "MA",
+        "zip": "02144"
+      },
+      "value": "",
+      "for_sale": "true",
+      "img": "seven.jpg",
+      "tags": ["three-bedroom", "waterfront", "top-school-district"]
+    },
+    {
+      "id": 8,
+      "address": {
+        "line1": "66 Dane St",
+        "line2": "",
+        "city": "Cambridge",
+        "state": "MA",
+        "zip": "02139"
+      },
+      "value": "750000",
+      "for_sale": "true",
+      "img": "eight.jpg",
+      "tags": [
+        "four-bedroom",
+        "waterfront",
+        "septic",
+        "foreclosure",
+        "top-school-district"
+      ]
+    },
+    {
+      "id": 9,
+      "address": {
+        "line1": "82 Union Square",
+        "line2": "Unit 2",
+        "city": "Worcester",
+        "state": "MA",
+        "zip": "01605"
+      },
+      "value": "350000",
+      "for_sale": "true",
+      "img": "nine.jpg",
+      "tags": ["one-bedroom"]
+    },
+    {
+      "id": 10,
+      "address": {
+        "line1": "9333 Warner St",
+        "line2": "",
+        "city": "Dudle",
+        "state": "MA",
+        "zip": "01571"
+      },
+      "value": "400000",
+      "for_sale": "true",
+      "img": "ten.jpg",
+      "tags": ["two-bedroom", "waterfront"]
+    },
+    {
+      "id": 11,
+      "address": {
+        "line1": "4 Grand Parkway",
+        "line2": "",
+        "city": "Natick",
+        "state": "MA",
+        "zip": "01760"
+      },
+      "value": "450000",
+      "for_sale": "true",
+      "img": "eleven.jpg",
+      "tags": ["two-bedroom", "top-school-district"]
+    }
+  ]
+}
